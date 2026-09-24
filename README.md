@@ -4,7 +4,7 @@
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=900&color=70A5FD&center=true&vCenter=true&width=900&lines=QA+Automation+Engineer+%7C+7%2B+Years;Playwright+%7C+Selenium+%7C+Cypress;TypeScript+%7C+C%23+%7C+Java+%7C+API+Testing;CI%2FCD+%7C+Docker+%7C+GitHub+Actions;AI-Powered+QA+%7C+Ollama+%7C+n8n+%7C+RAG"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=900&color=70A5FD&center=true&vCenter=true&width=900&lines=QA+Automation+Engineer+%7C+7%2B+Years;Playwright+%7C+Selenium+%7C+Cypress;TypeScript+%7C+C%23+%7C+Java+%7C+API+Testing;CI%2FCD+%7C+Docker+%7C+GitHub+Actions;AI-Powered+QA+%7C+n8n+%7C+RAG+%7C+AI+Agents"
     alt="Typing SVG"
   />
 </a>
@@ -45,7 +45,7 @@ const reshma = {
 
   aiFocus: [
     "AI-assisted QA",
-    "Self-healing automation",
+    "Failure classification",
     "n8n workflows",
     "AI Agents",
     "RAG",
@@ -73,12 +73,14 @@ I am currently expanding that experience into **AI-assisted Quality Engineering*
 
 - 🤖 AI-assisted locator healing
 - 🧠 Failure classification
-- 🔍 DOM evidence validation
+- 🔍 Historical failure analysis
 - ⚙️ n8n workflow automation
 - 🔗 REST API and webhook integrations
-- 🧩 AI agents
+- 🧩 AI Agents
 - 📚 RAG and vector databases
-- 🚀 Automated QA incident workflows
+- 🚀 Automated release-quality workflows
+- 🎫 Jira integration
+- 📧 Automated reporting
 
 ---
 
@@ -125,9 +127,9 @@ I am currently expanding that experience into **AI-assisted Quality Engineering*
 ## AI & Automation
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-AI-CC785C?style=flat-square)
 ![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-black?style=flat-square)
-![Gemma](https://img.shields.io/badge/Gemma%203-LLM-purple?style=flat-square)
 ![n8n](https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-Vector%20Database-000000?style=flat-square)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=github&logoColor=white)
@@ -135,6 +137,78 @@ I am currently expanding that experience into **AI-assisted Quality Engineering*
 ---
 
 # 🚀 Featured Projects
+
+## 🤖 AI-Powered Release Quality Agent
+
+<a href="https://github.com/chinchu12/release-quality-agent">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=chinchu12&repo=release-quality-agent&theme=tokyonight&hide_border=true"
+  />
+</a>
+
+An **AI-assisted release quality system** that goes beyond simple Playwright pass/fail reporting.
+
+### What it demonstrates
+
+- 🎭 Playwright + TypeScript automated testing
+- 🚀 GitHub Actions CI/CD
+- ⚙️ n8n release workflow orchestration
+- 🗂️ Historical QA failure storage
+- 📚 Pinecone RAG retrieval
+- 🧠 AI Agent failure classification
+- 🎫 Jira related-issue lookup
+- 📊 Deterministic release-risk calculation
+- 📄 Final AI Release Report
+- 📧 Automated Gmail notification
+- ✅ READY / REVIEW REQUIRED / BLOCK RELEASE recommendations
+
+### Release intelligence flow
+
+```text
+Playwright Tests
+        ↓
+GitHub Actions
+        ↓
+n8n Webhook
+        ↓
+Failure Detection
+        ↓
+Historical QA Data
+        ↓
+Pinecone RAG
+        ↓
+AI Agent
+        ↓
+Jira Context
+        ↓
+Deterministic Risk Engine
+        ↓
+Final Release Report
+        ↓
+Gmail Notification
+```
+
+### Failure classifications
+
+```text
+product_bug
+automation_issue
+environment_issue
+flaky_test
+unknown
+```
+
+![Playwright](https://img.shields.io/badge/Playwright-TypeScript-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-RAG-000000?style=flat-square)
+![Jira](https://img.shields.io/badge/Jira-Issue%20Context-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-AI%20Agent-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+
+🔗 **Repository:**  
+https://github.com/chinchu12/release-quality-agent
+
+---
 
 ## 🤖 Playwright AI Quality Framework
 
@@ -158,7 +232,7 @@ I am currently expanding that experience into **AI-assisted Quality Engineering*
 - 📄 AI incident reports
 - ⚙️ Configurable AI mode
 - 🚀 GitHub Actions CI/CD
-- 🖥️ Ollama + Gemma 3 local LLM
+- 🖥️ Local LLM experimentation
 
 ### Supported healing actions
 
@@ -184,34 +258,168 @@ https://github.com/chinchu12/playwright-ai-quality-framework
 
 ---
 
-## 🔄 AI QA Incident Automation — Coming Soon
+## 🎮 Playwright Gaming Regression Framework
 
-Planned QA workflow:
+<a href="https://github.com/chinchu12/playwright-gaming-regression-framework">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=chinchu12&repo=playwright-gaming-regression-framework&theme=tokyonight&hide_border=true"
+  />
+</a>
+
+A scalable **Playwright + TypeScript multi-brand regression framework** designed around reusable automation architecture.
+
+### What it demonstrates
+
+- 🎭 Playwright + TypeScript
+- 🧱 Page Object Model
+- 🏷️ Multi-brand test architecture
+- 🧩 Custom Playwright fixtures
+- ⚙️ Project-based configuration
+- 🌍 Environment-specific execution
+- 🔄 Reusable regression flows
+- 🛡️ Validators and helpers
+- 📊 Automated reporting
+- 🧪 Scalable end-to-end regression coverage
+
+### Framework architecture
 
 ```text
-Playwright Failure
+Playwright Projects
         ↓
-Failure Context
+Brand Configuration
         ↓
-Webhook
+Custom Fixtures
         ↓
-n8n
+Page Objects
         ↓
-AI Classification
+Reusable Test Flows
         ↓
-Known Defect / RAG Lookup
-        ↓
-Human Review
-        ↓
-Slack / Telegram / Email
+Regression Validation
 ```
 
-### Planned technologies
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![POM](https://img.shields.io/badge/Page%20Object%20Model-Architecture-70A5FD?style=flat-square)
+![Regression](https://img.shields.io/badge/Regression-Multi--Brand-BF91F3?style=flat-square)
 
-![Playwright](https://img.shields.io/badge/Playwright-TypeScript-2EAD33?style=flat-square)
-![n8n](https://img.shields.io/badge/n8n-Automation-EA4B71?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-Knowledge%20Retrieval-purple?style=flat-square)
-![Pinecone](https://img.shields.io/badge/Pinecone-Vector%20Search-black?style=flat-square)
+🔗 **Repository:**  
+https://github.com/chinchu12/playwright-gaming-regression-framework
+
+---
+
+## 🎰 Playwright Casino Game Framework
+
+<a href="https://github.com/chinchu12/playwright-casino-game-framework">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=chinchu12&repo=playwright-casino-game-framework&theme=tokyonight&hide_border=true"
+  />
+</a>
+
+A **Playwright + TypeScript casino-game automation framework** focused on reusable game validation and regression testing.
+
+### What it demonstrates
+
+- 🎭 Playwright + TypeScript
+- 🧱 Page Object Model
+- 🎰 Casino game validation
+- 🔐 Login and session setup
+- 🌐 Network validation
+- ⏳ Game / slot loading checks
+- 🧪 Structured test data
+- 📊 Custom GameCheck reporting
+- ⚙️ Configuration-driven execution
+- 🔁 End-to-end regression testing
+
+### Example execution flow
+
+```text
+Login
+  ↓
+Environment Setup
+  ↓
+Game Selection
+  ↓
+Game Availability Check
+  ↓
+Network Validation
+  ↓
+Game Validation
+  ↓
+Custom Report
+```
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Casino Testing](https://img.shields.io/badge/Casino-Game%20Testing-BF91F3?style=flat-square)
+![Regression](https://img.shields.io/badge/Regression-Automation-38BDAE?style=flat-square)
+
+🔗 **Repository:**  
+https://github.com/chinchu12/playwright-casino-game-framework
+
+---
+
+## ⚙️ AI Automation & Workflow Projects
+
+<a href="https://github.com/chinchu12/AI-Automation">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=chinchu12&repo=AI-Automation&theme=tokyonight&hide_border=true"
+  />
+</a>
+
+### Areas explored
+
+- 🤖 LLM integrations
+- ⚙️ n8n workflow automation
+- 🧩 AI Agents and tool calling
+- 🔗 Webhooks and REST APIs
+- 📚 RAG workflows
+- 🖼️ AI image generation
+- 💼 LinkedIn automation
+- 📧 Gmail automation
+- 🧠 Prompt engineering
+
+🔗 **Repository:**  
+https://github.com/chinchu12/AI-Automation
+
+---
+
+## 🧪 AIQA Test Automation Task
+
+<a href="https://github.com/chinchu12/AIQA-Test-automation-task.">
+  <img
+    src="https://img.shields.io/badge/View-QA%20Automation%20Project-70A5FD?style=for-the-badge&logo=github&logoColor=white"
+  />
+</a>
+
+### Focus
+
+- Automated UI testing
+- Test case implementation
+- Assertions and validations
+- Reusable automation logic
+- Playwright-based test execution
+- QA automation best practices
+
+🔗 **Repository:**  
+https://github.com/chinchu12/AIQA-Test-automation-task.
+
+---
+
+## 📬 Postman API Testing
+
+### Focus
+
+- REST API testing
+- Request validation
+- Response assertions
+- Postman collections
+- Environment variables
+- API workflow testing
+
+![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+🔗 **Repository:**  
+https://github.com/chinchu12/PstMan
 
 ---
 
@@ -250,7 +458,7 @@ Planned coverage:
 
 **Duration:** 1 Month · 20 Working Days
 
-I am expanding my QA/SDET background into **AI engineering, workflow automation and agentic systems**, with a focus on applying the technologies to practical Quality Engineering use cases.
+I am expanding my QA/SDET background into **AI engineering, workflow automation and agentic systems**, with a focus on applying these technologies to practical Quality Engineering use cases.
 
 ### 🧠 AI Foundations
 
@@ -264,9 +472,7 @@ I am expanding my QA/SDET background into **AI engineering, workflow automation 
 
 ### 💬 AI Assistants & Productivity
 
-- Claude Chat
-- Claude Cowork
-- Claude Code
+- Claude
 - ChatGPT
 - Gemini
 - Perplexity
@@ -291,22 +497,19 @@ I am expanding my QA/SDET background into **AI engineering, workflow automation 
 - Webhooks
 - REST APIs
 - HTTP requests
-- Resume screening workflows
-- Invoice processing
 - Structured data extraction
-- Telegram bot automation
-- Voice AI using Vapi
+- Workflow integrations
+- Business process automation
 
 ### 🧩 AI Agents & Advanced Automation
 
-- AI agents vs workflows
+- AI Agents vs workflows
 - Agent components
 - Tool calling
 - Agent design concepts
 - Personal AI assistants
 - Memory
 - Task automation
-- Web scraping using Apify
 
 ### 📚 RAG & Vector Databases
 
@@ -329,13 +532,17 @@ Test Failure
       ↓
 Evidence Collection
       ↓
+Historical Context
+      ↓
+RAG Retrieval
+      ↓
 AI Analysis
       ↓
 Deterministic Validation
       ↓
-Retry / Triage
+Risk / Triage
       ↓
-Incident Report
+Incident / Release Report
       ↓
 Workflow Automation
 ```
@@ -343,18 +550,18 @@ Workflow Automation
 ### Engineering principle
 
 ```text
-AI proposes
-     ↓
-DOM / system evidence validates
-     ↓
+AI provides context
+       ↓
+Evidence validates
+       ↓
 Framework rules decide
-     ↓
+       ↓
 Automation executes
-     ↓
+       ↓
 Reports preserve traceability
 ```
 
-This keeps AI as an **assistant to deterministic engineering**, rather than blindly allowing an LLM to control test execution.
+This keeps AI as an **assistant to deterministic engineering**, rather than blindly allowing an LLM to control test execution or release decisions.
 
 ---
 
@@ -447,7 +654,8 @@ This keeps AI as an **assistant to deterministic engineering**, rather than blin
 |---|---|---|
 | 🎯 | **7+ Years QA Automation** | Selenium → Cypress → Playwright |
 | 🌍 | **Multi-Domain Experience** | SaaS · FinTech · iGaming |
-| 🤖 | **AI-Assisted Quality Engineering** | LLMs · self-healing · QA automation |
+| 🤖 | **AI-Assisted Quality Engineering** | Agents · RAG · intelligent QA workflows |
+| 🎭 | **Modern Test Architecture** | Playwright · TypeScript · POM · fixtures |
 | ⚙️ | **CI/CD Automation** | GitHub Actions · Jenkins · GitLab · Azure DevOps |
 | 🐳 | **Containerized Testing** | Docker |
 | 🌐 | **Cross-Browser Testing** | BrowserStack |
@@ -491,20 +699,8 @@ This keeps AI as an **assistant to deterministic engineering**, rather than blin
 
 ---
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=chinchu12&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"
-  alt="GitHub Streak"
-/>
-
-</div>
-
----
-
 # 🧱 Currently Building & Learning
+
 ```text
 🤖 AI Automation
    ├── Prompt Engineering
@@ -516,7 +712,7 @@ This keeps AI as an **assistant to deterministic engineering**, rather than blin
    ├── Webhooks
    ├── REST APIs
    ├── Gmail Automation
-   ├── Telegram
+   ├── LinkedIn Automation
    └── Error Handling
 
 🧠 RAG & Knowledge Systems
@@ -529,6 +725,7 @@ This keeps AI as an **assistant to deterministic engineering**, rather than blin
    ├── AI Self-Healing
    ├── API Testing
    ├── CI/CD
+   ├── Multi-Brand Automation
    └── Scalable Framework Design
 
 🇩🇪 German
@@ -539,20 +736,27 @@ This keeps AI as an **assistant to deterministic engineering**, rather than blin
 
 # 🔮 Project Roadmap
 
-### In Progress
+### ✅ Completed / Portfolio Projects
 
+- ✅ AI-Powered Release Quality Agent
 - ✅ Playwright AI Quality Framework
-- 🔄 AI QA Incident Automation
+- ✅ Playwright Gaming Regression Framework
+- ✅ Playwright Casino Game Framework
+- ✅ AIQA Test Automation Project
+- ✅ Postman API Testing Portfolio
 
-### Planned
+### 🔄 In Progress
 
-- 🧠 QA RAG Knowledge Assistant
+- 🔄 AI & n8n Workflow Automation
+- 🔄 AI-Powered LinkedIn Content Automation
+- 🔄 Advanced AI-assisted QA experiments
+
+### 📌 Planned
+
+- 🧠 Advanced QA RAG Knowledge Assistant
 - 🔗 API & Microservices Test Framework
-- 📨 n8n AI Workflow Automation
 - 📊 Performance Testing Portfolio
 - 📡 Event-Driven / Kafka Testing Framework
-
-As these projects are completed, they will be added here with direct repository links.
 
 ---
 
